@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "552746556421",
+    "firebase_url": "https://japanese-food-online.firebaseio.com",
+    "project_id": "japanese-food-online",
+    "storage_bucket": "japanese-food-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552746556421:android:617fd7a671a7ff05ca906c",
+        "android_client_info": {
+          "package_name": "app.grocerycorporation.japanesefoodappp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552746556421-srduubma5abncs8dsd9jo6ksgi9pst7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMB1oVM3iWbh3gPtrMOvltlSh3gUG8efY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552746556421-srduubma5abncs8dsd9jo6ksgi9pst7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552746556421:android:168403fe9a0d932dca906c",
+        "android_client_info": {
+          "package_name": "com.smartersvision.japfooduser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552746556421-5cf8u2bkrtusqm9icnm5n5ro3qcn4r73.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartersvision.japfooduser",
+            "certificate_hash": "3fbe74df1e791cf509b6aa28264b2389f3a77e4c"
+          }
+        },
+        {
+          "client_id": "552746556421-srduubma5abncs8dsd9jo6ksgi9pst7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMB1oVM3iWbh3gPtrMOvltlSh3gUG8efY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552746556421-srduubma5abncs8dsd9jo6ksgi9pst7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
