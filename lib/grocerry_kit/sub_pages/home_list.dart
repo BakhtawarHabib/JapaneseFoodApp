@@ -82,8 +82,7 @@ class _HomeListState extends State<HomeList> {
 //                          color: Colors.grey.withOpacity(.5),
 //                          border: Border.symmetric(vertical:BorderSide(color: Colors.grey,width: 1.5,))
 //                        ),
-                              padding: EdgeInsets.only(
-                                  left: 16, top: 10, bottom: 10),
+                              padding: EdgeInsets.only(left: 16, bottom: 10),
                               child: Text(
                                 category.categoryName,
                                 style: TextStyle(
@@ -216,7 +215,7 @@ class _HomeListState extends State<HomeList> {
                     ),
                     Text(
                       description,
-                      maxLines: 2,
+                      maxLines: 1,
                       softWrap: true,
                       style: TextStyle(
                         fontSize: 14,
